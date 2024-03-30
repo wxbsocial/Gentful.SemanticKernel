@@ -1,0 +1,2 @@
+# Gentful.SemanticKernel
+对SemanticKernel的系列扩展库，包括对百度文心，阿里千问等国内大模型的支持
